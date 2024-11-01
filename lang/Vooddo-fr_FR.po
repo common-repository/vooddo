@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vooddo player 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-14 09:44+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: David Voisin <d.voisin@voddnet.com>\n"
+"Language-Team: VodDnet <support@voddnet.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/wordpress/wp-content/plugins/vooddo\n"
+"X-Poedit-SearchPath-1: /var/www/wordpress/wp-content/plugins/vooddo/lib\n"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/vooddo.php:126
+msgid "This video in your website"
+msgstr "Cette vidéo dans votre site"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:47
+msgid "URL video"
+msgstr "Vidéo URL"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:52
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:73
+msgid "Add"
+msgstr "Ajouter"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:53
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:60
+msgid "Add new Vooddo into the post using a public video URL"
+msgstr "Ajouter un Vooddo existant dans l'article depuis son URL publique"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:68
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:99
+msgid "Vooddo ID"
+msgstr "Vooddo ID"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:74
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:81
+msgid "Add exisiting Vooddo into the post by passing its ID"
+msgstr "Ajouter un Vooddo existant à partir de son ID"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:105
+msgid "Watch the Vooddo video"
+msgstr "Visionner la vidéo Vooddo"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:110
+msgid "Modify in Vooddo Editor"
+msgstr "Modifier depuis l'Editeur Vooddo"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:114
+msgid "Remove from post"
+msgstr "Supprimer de l'article"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:249
+#, php-format
+msgid "Can not put video at URL : %s into a Vooddo video."
+msgstr "Impossible de créer une vidéo Vooddo depuis l'URL : %s."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:261
+#, php-format
+msgid "Invalid descriptor format for the new Vooddo ID %s."
+msgstr "Le format du descripteur n'est pas valide pour le nouvel ID Vooddo %s."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:280
+#, php-format
+msgid "You already added this Vooddo (ID : %s) in the post."
+msgstr "Vous avez déjà ajouté cette vidéo Vooddo (ID : %s) dans l'article."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:289
+#, php-format
+msgid "No descriptor available for the Vooddo ID %s."
+msgstr "Pas de descripteur disponible pour l'ID Vooddo %s."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoMetaBox.php:294
+#, php-format
+msgid "Invalid descriptor format for the Vooddo ID %s."
+msgstr "Le format du descripteur n'est pas valide pour l'ID Vooddo %s."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:14
+msgid "Administration"
+msgstr "Administration"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:28
+msgid "Player"
+msgstr "Lecteur"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:34
+msgid "Vooddo player URL"
+msgstr "URL du lecteur Vooddo"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:37
+msgid "URL of the Vooddo player. Be sure the URL is valid so that the modification occurs."
+msgstr "URL du lecteur Vooddo. Assurez-vous de la validité de l'URL pour que la modification soit effective."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:41
+msgid "Width"
+msgstr "Largeur"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:44
+msgid "Default player width in pixels."
+msgstr "Largeur du lecteur par défaut en pixels."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:48
+msgid "Height"
+msgstr "Hauteur"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:51
+msgid "Default player height in pixels."
+msgstr "Hauteur du lecteur par défaut en pixels."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:55
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:62
+msgid "Default player background color, use CSS color syntax."
+msgstr "Couleur de fond du lecteur par défaut , utilise la syntaxe de couleur CSS."
+
+#: /var/www/wordpress/wp-content/plugins/vooddo/lib/VooddoAdminPage.php:73
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#~ msgid "New Vooddo ID"
+#~ msgstr "Nouvel ID Vooddo"
+#~ msgid "Submit"
+#~ msgstr "Valider"
+#~ msgid "Submit the new parameters values"
+#~ msgstr "Valider les nouvelles valeurs des paramètres"
+#~ msgid "Editor"
+#~ msgstr "Editeur"
+#~ msgid "Open in full screen"
+#~ msgstr "Ouvrir en plein écran"
+#~ msgid "Open in new tab"
+#~ msgstr "Ouvrir dans un nouvel onglet"
+#~ msgid "Update"
+#~ msgstr "Mettre à jour"
+#~ msgid "Identifier"
+#~ msgstr "Identifiant"
+#~ msgid "Descriptor URL"
+#~ msgstr "URL du descripteur"
+#~ msgid "Error, unreachable descriptor URL %s."
+#~ msgstr "Erreur, vérifier la validité de l'URL %s."
+#~ msgid "Wrong content-type (%s) for %s. Should be a valid XML file."
+#~ msgstr ""
+#~ "Type de fichier (%s) erroné. S'assurer que %s est un fichier de type XML."
+#~ msgid "Error, %s is not a valid Vooddo descriptor file."
+#~ msgstr "Erreur, %s n'est pas un fichier descripteur Vooddo valide."
+#~ msgid "Delete"
+#~ msgstr "Supprimer"
+#~ msgid "URL Vooddo player"
+#~ msgstr "URL du lecteur Vooddo"
+
